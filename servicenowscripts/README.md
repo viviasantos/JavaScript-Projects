@@ -1,4 +1,4 @@
-# 💼 ServiceNow Business Rule Project
+# 💼 ServiceNow Business Rules Project
 
 Welcome to the **ServiceNow Business Rule Project**, where I demonstrate how to automate backend logic using server-side scripting within the ServiceNow platform.
 
