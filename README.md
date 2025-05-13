@@ -19,8 +19,4 @@ This space is dedicated to sharing my study notes, code samples, and small proje
 ## 📌 Purpose
 This repository serves as a personal learning space and technical portfolio as I grow my skills as a developer.
 
-<<<<<<< HEAD
 ✨ Thanks for visiting!
-=======
-✨ Thanks for visiting!
->>>>>>> 6338474cb51eddaf20d46a5ccd3f9982621b29d3
