@@ -12,7 +12,7 @@ This space is dedicated to sharing my study notes, code samples, and small proje
 - Scripts for automation and business rules in ServiceNow
 
 ## 🛠 Technologies Used
-- JavaScript (ES6+)
+- JavaScript
 - HTML & CSS (in some visual projects)
 - ServiceNow (Business Rules, Client Scripts, etc.)
 
