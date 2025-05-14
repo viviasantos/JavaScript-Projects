@@ -12,15 +12,13 @@ This space is dedicated to sharing my study notes, code samples, and small proje
 - Scripts for automation and business rules in ServiceNow
 
 ## 🛠 Technologies Used
-- JavaScript (ES6+)
+- JavaScript
 - HTML & CSS (in some visual projects)
 - ServiceNow (Business Rules, Client Scripts, etc.)
 
 ## 📌 Purpose
 This repository serves as a personal learning space and technical portfolio as I grow my skills as a developer.
 
-<<<<<<< HEAD
 ✨ Thanks for visiting!
 =======
-✨ Thanks for visiting!
->>>>>>> 6338474cb51eddaf20d46a5ccd3f9982621b29d3
+
