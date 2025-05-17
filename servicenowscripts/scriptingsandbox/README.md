@@ -1,20 +1,9 @@
-# 🧪 ServiceNow Business Rules Playground
+🧪 ServiceNow Scripts Sandbox
+This folder is a sandbox for practicing and experimenting scripts on the ServiceNow platform. It’s a safe testing environment to explore and learn scripting patterns.
 
-This folder contains **practice scripts** and examples focused only on **Business Rules** in the ServiceNow platform.
-It's a testing area to explore how server-side logic works, learn scripting patterns, and simulate real-world use cases.
 
-## 📚 What You'll Find
+🎯 Purpose
+This is part of my learning path to understand how to automate and customize using JavaScript in ServiceNow.
+It helps simulate real-life scenarios often seen in production environments
 
-- 🔄 **Before**, **After**, and **Async** Business Rules
-- ✅ Field auto-population
-- 🛠 Record validation and modification
-- 🔗 GlideRecord usage to interact with other records
-- 🧪 Custom logic for incident and task records
-
-## 🎯 Purpose
-This folder is part of my learning path to understand how to automate and customize business logic using **JavaScript in ServiceNow**.  
-It helps simulate scenarios commonly found in real environments or technical interviews.
-
----
-
-🚧 Always updating with new rule examples and tests!
+🚧 Constantly evolving — new rule examples and tests added regularly!
