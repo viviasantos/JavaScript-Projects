@@ -3,7 +3,6 @@
 
 (function executeRule(current, previous /*null when async*/) {
 
-    var state = current.state;
     current.state = 1;
 
 })(current, previous);
