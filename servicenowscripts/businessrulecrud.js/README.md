@@ -11,10 +11,10 @@ Description: This project demonstrates how to implement CRUD (Create, Read, Upda
 - Demonstrates Create, Update, and Delete logic through separate Business Rules.
   
 # Tools & Technologies Used:
-ServiceNow Business Rules
-ServiceNow GlideRecord
-JavaScript
-Visual Studio Code
-ServiceNow Platform
+ServiceNow Business Rules, 
+ServiceNow GlideRecord, 
+JavaScript, 
+Visual Studio Code, 
+ServiceNow Platform, 
 
 ---
